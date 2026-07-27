@@ -13,3 +13,7 @@ Getting started with your first assignment as a Front‑end AI Engineer:
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> main
