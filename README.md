@@ -3,12 +3,17 @@
 This is your README. READMEs are where you can communicate what your project is and how to use it.
 
 Claude Code: Chat
-# First Assignment: Environment and AI toolchain
+## First Assignment: Environment and AI Toolchain
 
-Getting started with a first Assignment as a Front-end AI engineering:
-1. Install a Node.js
-2. Install a Claude code with VS code
-3. Edit the README.md
-4. Follow the AI claude suggestions. 
+Getting started with your first assignment as a Front‑end AI Engineer:
+1. Install Node.js
+2. Install Claude Code in VS Code
+3. Edit the README.md file
+4. Follow Claude’s suggestions
 
 
+
+<<<<<<< HEAD
+=======
+
+>>>>>>> main

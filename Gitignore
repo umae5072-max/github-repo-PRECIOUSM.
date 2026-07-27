@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node.js dependencies
 node_modules/
 npm-debug.log
@@ -9,3 +10,16 @@ yarn-error.log
 # Build output
 dist/
 build/
+=======
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
+>>>>>>> main
