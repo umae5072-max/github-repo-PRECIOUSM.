@@ -11,4 +11,4 @@ Getting started with a first Assignment as a Front-end AI engineering:
 3. Edit the README.md
 4. Follow the AI claude suggestions. 
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+
