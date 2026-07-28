@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CLAUDE.md
 
 ## Stack
@@ -16,7 +15,6 @@
 ## AI Usage
 - Claude Code is used to critique documentation and suggest improvements.
 - AI feedback is applied directly to project files before committing.
-=======
 # CLAUDE.md
 
 ## Stack
@@ -34,4 +32,3 @@
 ## AI Usage
 - Claude Code is used to critique documentation and suggest improvements.
 - AI feedback is applied directly to project files before committing.
->>>>>>> main
