@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CLAUDE.md
 
 ## Stack
@@ -16,7 +15,6 @@
 ## AI Usage
 - Claude Code is used to critique documentation and suggest improvements.
 - AI feedback is applied directly to project files before committing.
-=======
 # CLAUDE.md
 
 ## Stack
@@ -34,4 +32,9 @@
 ## AI Usage
 - Claude Code is used to critique documentation and suggest improvements.
 - AI feedback is applied directly to project files before committing.
->>>>>>> main
+
+## Project Rules Learned
+
+1. Always use a structured AI prompt with clear requirements instead of a vague prompt.
+2. Write and run unit tests using Vitest before committing changes.
+3. Verify AI-generated code manually before accepting it to ensure correctness and maintainability.
